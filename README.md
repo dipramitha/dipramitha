@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dipramitha
-- 👀 I’m interested in WebGIS 
 - 🌱 I’m currently learning Geographic Information System 
-- 💞️ I’m looking to collaborate on Geospatial Programming 
 - 📫 How to reach me pramitha.dewi@mail.ugm.ac.id
 
 <!---
