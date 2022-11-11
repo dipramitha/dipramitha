@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipramitha
-- 🌱 I’m currently learning Geographic Information System 
-- 📫 How to reach me pramitha.dewi@mail.ugm.ac.id
+- 🌱 Currently learning Geographic Information System 
+- 📫 How to reach me dipramithadewi@gmail.com
 
 <!---
 dipramitha/dipramitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
